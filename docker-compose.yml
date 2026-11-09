@@ -13,7 +13,7 @@ services:
     container_name: postgres-product
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: hung266
+      POSTGRES_PASSWORD: Hung266
       POSTGRES_DB: product_db
     ports:
       - "5432:5432"
